@@ -1,4 +1,4 @@
-// * Solution of Basic JavaScript: Word Blanks
+// * Solution of Basic JavaScript: Word Blanks Game
 
 
 // ! Read the long explanation
@@ -9,18 +9,13 @@
 
 // ? ou will need to use the string concatenation operator + to build a new string, using the provided variables: myNoun, myAdjective, myVerb, and myAdverb. You will then assign the formed string to the wordBlanks variable. You should not change the words assigned to the variables.
 
+
 var myNoun = "dog";
 var myAdjective = "big";
 var myVerb = "ran";
 var myAdverb = "quickly";
 
 var wordBlanks = myNoun + " " + myVerb + " " + myAdjective  + " " + myAdverb;
-
-
-
-
-
-
 
 
 
