@@ -1,18 +1,21 @@
-/*
- Something that I'm going to use a lot are comments, for explain the exercise or the resolution of it. YEAH, THIS IS A COMMENT!
+// * Solution of Basic JavaScript: Comment Your JavaScript Code
+
+/**
+ * ! You should create a // style comment that contains at least five letters.
+ * ! You should create a style comment that contains at least five letters.
  */
 
-// Solution of Basic JavaScript: Comment Your JavaScript Code 
 
-
+// ? Solution 
 
 // Single line comment
 
-/* Multi
-line
-comment
-*/
+/**
+ * Multi
+ * Line
+ * Text
+ */
 
 
 
-// 1% Complete Hurra! :D
+//* 1% Complete Hurra! :D
