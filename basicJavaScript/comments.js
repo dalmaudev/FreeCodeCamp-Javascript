@@ -18,4 +18,4 @@
 
 
 
-//* 1% Complete Hurra! :D
+// & 1% Complete Hurra! :D
