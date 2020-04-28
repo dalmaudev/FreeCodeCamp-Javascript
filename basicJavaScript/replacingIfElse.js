@@ -34,10 +34,4 @@ function chainToSwitch(val) {
   chainToSwitch(7);
 
 
-
-
-
-
-
-
-// & 23% Complete Hurra! :D
+// & 69% Complete Hurra! :D
