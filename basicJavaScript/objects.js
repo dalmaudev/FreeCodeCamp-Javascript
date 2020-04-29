@@ -16,15 +16,9 @@ var myDog = {
     "legs": 2,
     "tails": 1,
     "friends": ["Dog1", "Dog2"]
-    
+
     // Only change code above this line
     };
 
 
-
-
-
-
-
-
-// & 33% Complete Hurra! :D
+// & 73% Complete Hurra! :D
