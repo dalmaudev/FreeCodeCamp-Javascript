@@ -30,15 +30,14 @@ var collection = {
   
   // Only change code below this line
   function updateRecords(id, prop, value) {
-    if (value === '') {
-      delete collection[id][prop];
+    if(value === "") delete collection[id][prop];
+    else if(prop === "tracks") {
+      collection[id][prop] = collection[id][prop] || [];
+      collection[id][prop].push(value);
     } else {
-      if (prop !== 'tracks') {
-        collection[id][prop] = value;
-      } else {
-        collection[id].hasOwnProperty('tracks') ? collection[id].tracks.push(value) : collection[id].tracks = [value];
-      }
+      collection[id][prop] = value;
     }
+  
     return collection;
   }
   
